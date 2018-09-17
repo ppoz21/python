@@ -1,2 +1,2 @@
-print("Paweł Palacz")
+print("Paweł")
 input("Aby kontunuować naciśnij Enter")
