@@ -17,10 +17,10 @@ while not password:
 if username == "M.Dawson" and password == "sekret":
     print("Cześć, Mike!")
     security = 5
-elif username == "S.Meier" and password == 'cywilizacja'
+elif username == "S.Meier" and password == 'cywilizacja':
     print("Hej, Sid!")
     security = 3
-elif username == "W.Wright" and password == 'sims'
+elif username == "W.Wright" and password == 'sims':
     print("Jak leci, Will!")
     security = 3
 elif username == "gość" or password == "gość":
