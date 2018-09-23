@@ -12,7 +12,7 @@ while not username:
 password = ""
 
 while not password:
-    password = input("Hasło")
+    password = input("Hasło: ")
 
 if username == "M.Dawson" and password == "sekret":
     print("Cześć, Mike!")
