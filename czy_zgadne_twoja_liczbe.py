@@ -1,4 +1,4 @@
-#Komputer "zgaduje liczbe wymyslona przez uzytkownika"
+#Komputer "zgaduje" liczbe wymyslona przez uzytkownika
 
 import random
 
