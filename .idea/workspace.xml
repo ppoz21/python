@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d72bde6-2395-49c5-a000-39cab886ad60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/obsloz_to.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turniej_wiedzy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +15,7 @@
     <session id="380055947">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="6" />
@@ -27,43 +27,33 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dat" value="2" />
-          <entry key="py" value="66" />
+          <entry key="py" value="68" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="66" />
+          <entry key="Python" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="20432" />
+          <entry key="py" value="21835" />
           <entry key="txt" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="55" />
-          <entry key="Python" value="20432" />
+          <entry key="Python" value="21835" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/obsloz_to.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
-              <caret line="50" column="57" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zabawne_podziekowania.py" />
         <option value="$PROJECT_DIR$/glupie_lancuchy.py" />
         <option value="$PROJECT_DIR$/zadania tekstowe.py" />
         <option value="$PROJECT_DIR$/pozdrawiacz.py" />
@@ -129,6 +118,7 @@
         <option value="$PROJECT_DIR$/zapisz_to.py" />
         <option value="$PROJECT_DIR$/zamarynuj_to.py" />
         <option value="$PROJECT_DIR$/obsloz_to.py" />
+        <option value="$PROJECT_DIR$/turniej_wiedzy.py" />
       </list>
     </option>
   </component>
@@ -174,28 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.obsloz_to">
-    <configuration name="kolko_i_krzyzyk" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kolko_i_krzyzyk.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.turniej_wiedzy">
     <configuration name="obsloz_to" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,6 +199,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odczytaj_to.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turniej_wiedzy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turniej_wiedzy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,19 +271,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.kolko_i_krzyzyk" />
       <item itemvalue="Python.odczytaj_to" />
       <item itemvalue="Python.zapisz_to" />
       <item itemvalue="Python.zamarynuj_to" />
       <item itemvalue="Python.obsloz_to" />
+      <item itemvalue="Python.turniej_wiedzy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.turniej_wiedzy" />
         <item itemvalue="Python.obsloz_to" />
         <item itemvalue="Python.zamarynuj_to" />
         <item itemvalue="Python.zapisz_to" />
         <item itemvalue="Python.odczytaj_to" />
-        <item itemvalue="Python.kolko_i_krzyzyk" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +302,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2628205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -337,13 +326,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/osobisty_pozdrawicz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manipulacje_cytatami.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -705,6 +687,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="755">
           <caret line="50" column="57" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turniej_wiedzy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+          <folding>
+            <marker date="1541335898750" expanded="true" signature="457:462" ph="..." />
+            <marker date="1541335898750" expanded="true" signature="619:624" ph="..." />
+            <marker date="1541335898750" expanded="true" signature="1157:2207" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
