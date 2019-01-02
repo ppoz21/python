@@ -6,7 +6,7 @@ print("Ten program symuluje rozmowę z trzyletnim dzieckiem.")
 print("Spróbuj przerwać to szaleństwo.\n")
 
 response = ""
-while response != "Bo tak temu":
-    response = input("Czemu?\n")
+while response != "bo tak temu".lower():
+    response = input("Czemu?\n").lower()
 print("Powiem mamie!")
 input("\n\nAby zakończyć program, naciśnij klawisz Enter.")
