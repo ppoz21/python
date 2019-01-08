@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d72bde6-2395-49c5-a000-39cab886ad60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bad_wisielec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gra_w_karty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/losowanie_prezentow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opiekun_zwierzaka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogromca_obcych.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prosty_zwierzak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prywatny_zwierzak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zwierzak_z_atrybutem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zwierzak_z_klasa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zwierzak_z_konstruktorem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zwierzak_z_wlasciwoscia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gra_w_karty_2_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gra_w_karty_3_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/zadanko_losowanie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symulator_trzylatka.py" beforeDir="false" afterPath="$PROJECT_DIR$/symulator_trzylatka.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gra_w_karty.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="79" column="15" selection-start-line="79" selection-start-column="15" selection-end-line="79" selection-end-column="15" />
+            <state relative-caret-position="308">
+              <caret line="44" selection-start-line="44" selection-end-line="44" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gra_w_karty_2_0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1004">
+              <caret line="16" lean-forward="true" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gra_w_karty_3_0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="778">
+              <caret line="56" column="59" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -48,11 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zwariowany_lancuch.py" />
-        <option value="$PROJECT_DIR$/licznik.py" />
-        <option value="$PROJECT_DIR$/analizator_komunikatow.py" />
-        <option value="$PROJECT_DIR$/dostep_swobodny.py" />
-        <option value="$PROJECT_DIR$/bez_samoglosek.py" />
         <option value="$PROJECT_DIR$/krajacz_pizzy.py" />
         <option value="$PROJECT_DIR$/inwentarz_bohatera.py" />
         <option value="$PROJECT_DIR$/inwentarz_bhatera_2_0.py" />
@@ -99,6 +103,11 @@
         <option value="$PROJECT_DIR$/opiekun_zwierzaka.py" />
         <option value="$PROJECT_DIR$/pogromca_obcych.py" />
         <option value="$PROJECT_DIR$/gra_w_karty.py" />
+        <option value="$PROJECT_DIR$/gra_2_karty_2_0.py" />
+        <option value="$PROJECT_DIR$/gra_w_karty_2_0.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/wynik.txt" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/zadanko_losowanie.py" />
+        <option value="$PROJECT_DIR$/gra_w_karty_3_0.py" />
       </list>
     </option>
   </component>
@@ -115,7 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,6 +135,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.gra_w_karty">
+  <component name="RunManager" selected="Python.gra_w_karty_3_0">
     <configuration name="gra_w_karty" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="opiekun_zwierzaka" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gra_w_karty_2_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,7 +187,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opiekun_zwierzaka.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gra_w_karty_2_0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gra_w_karty_3_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gra_w_karty_3_0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prywatny_zwierzak" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zadanko_losowanie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,32 +246,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/infomatyka_lekcje" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prywatny_zwierzak.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zwierzak_z_wlasciwoscia" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zwierzak_z_wlasciwoscia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/infomatyka_lekcje/zadanko_losowanie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,19 +260,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.prywatny_zwierzak" />
-      <item itemvalue="Python.zwierzak_z_wlasciwoscia" />
-      <item itemvalue="Python.opiekun_zwierzaka" />
       <item itemvalue="Python.pogromca_obcych" />
       <item itemvalue="Python.gra_w_karty" />
+      <item itemvalue="Python.zadanko_losowanie" />
+      <item itemvalue="Python.gra_w_karty_2_0" />
+      <item itemvalue="Python.gra_w_karty_3_0" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gra_w_karty_3_0" />
+        <item itemvalue="Python.zadanko_losowanie" />
+        <item itemvalue="Python.gra_w_karty_2_0" />
         <item itemvalue="Python.gra_w_karty" />
         <item itemvalue="Python.pogromca_obcych" />
-        <item itemvalue="Python.opiekun_zwierzaka" />
-        <item itemvalue="Python.zwierzak_z_wlasciwoscia" />
-        <item itemvalue="Python.prywatny_zwierzak" />
       </list>
     </recent_temporary>
   </component>
@@ -289,56 +298,21 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32166302" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3206934" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39824945" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32968238" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/krajacz_pizzy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inwentarz_bhatera_2_0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="45" column="59" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inwentarz_bohatera.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="13" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zgadnij_slowo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wymieszane_litery.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="946">
@@ -634,10 +608,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/907059903/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="811" column="8" selection-start-line="811" selection-start-column="8" selection-end-line="811" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/wynik.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/zadanko_losowanie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gra_w_karty_2_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1004">
+          <caret line="16" lean-forward="true" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gra_w_karty.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="79" column="15" selection-start-line="79" selection-start-column="15" selection-end-line="79" selection-end-column="15" />
+        <state relative-caret-position="308">
+          <caret line="44" selection-start-line="44" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gra_w_karty_3_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="778">
+          <caret line="56" column="59" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
         </state>
       </provider>
     </entry>
