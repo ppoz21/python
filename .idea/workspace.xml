@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d72bde6-2395-49c5-a000-39cab886ad60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Blackjack/blackjack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blackjack/gra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blackjack/karty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/długowiecznosc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/2007.PR.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/2008.PR.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/2012_PR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/PR_2011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/atoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/dane_2019/plansza.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/dane_2019/robot.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/liczby_odkryte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/najdluzszy_podciag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/odwrocona_notacja_polska.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/slowa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/szyfr_cezara.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/szyfr_monoalfabetyczny.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/zadanie4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/zadanko_wyd_reszt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leniwe_przyciski.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leniwe_przyciski_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/licznik_klikniec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metkownica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prosty_gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wybor_filmow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wybor_filmow_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wybor_filmow_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/wybor_filmow_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wybor_filmow_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="90">
+              <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -169,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wybor_filmow">
+  <component name="RunManager" selected="Python.wybor_filmow_2">
     <configuration name="długowiecznosc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,27 +156,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/długowiecznosc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="leniwe_przyciski" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leniwe_przyciski.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,20 +227,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="wybor_filmow_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wybor_filmow_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.leniwe_przyciski" />
       <item itemvalue="Python.leniwe_przyciski_2" />
       <item itemvalue="Python.licznik_klikniec" />
       <item itemvalue="Python.długowiecznosc" />
       <item itemvalue="Python.wybor_filmow" />
+      <item itemvalue="Python.wybor_filmow_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wybor_filmow_2" />
         <item itemvalue="Python.wybor_filmow" />
         <item itemvalue="Python.długowiecznosc" />
         <item itemvalue="Python.licznik_klikniec" />
         <item itemvalue="Python.leniwe_przyciski_2" />
-        <item itemvalue="Python.leniwe_przyciski" />
       </list>
     </recent_temporary>
   </component>
@@ -307,14 +280,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29273504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31947485" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31947485" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -629,8 +601,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wybor_filmow_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="90">
+          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
         </state>
       </provider>
     </entry>
