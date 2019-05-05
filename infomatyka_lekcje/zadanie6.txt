@@ -1,0 +1,3 @@
+Parzystych: 497
+Najwiksza liczba: 64502, binarnie: 1111101111110110
+Dokadnie 9 cyfr ma 101 liczb. Ich suma to: 39415, co binarnie daje: 1001100111110111

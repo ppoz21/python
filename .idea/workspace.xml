@@ -2,8 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d72bde6-2395-49c5-a000-39cab886ad60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/prosta_gra/gra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prosta_gra/prosta_gra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackjack/blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackjack/gra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackjack/karty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/długowiecznosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/2007.PR.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/2008.PR.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/2012_PR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/PR_2011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/atoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/dane_2019/plansza.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/dane_2019/robot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/liczby_odkryte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/najdluzszy_podciag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/odwrocona_notacja_polska.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/slowa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/szyfr_cezara.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/szyfr_monoalfabetyczny.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infomatyka_lekcje/zadanko_wyd_reszt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leniwe_przyciski.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leniwe_przyciski_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/licznik_klikniec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metkownica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prosty_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wybor_filmow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wybor_filmow_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,19 +40,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prosta_gra/prosta_gra.py">
+        <entry file="file://$PROJECT_DIR$/wybor_filmow_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prosta_gra/gra.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="132">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -47,31 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wymieszane_litery.py" />
-        <option value="$PROJECT_DIR$/reverse.py" />
-        <option value="$PROJECT_DIR$/zgadnij_slowo.py" />
-        <option value="$PROJECT_DIR$/inwentarz_hobatera_3_0.py" />
-        <option value="$PROJECT_DIR$/najlepsze_wyniki.py" />
-        <option value="$PROJECT_DIR$/najlepsze_wyniki_2_0.py" />
-        <option value="$PROJECT_DIR$/translator_slangu_komputerowego.py" />
-        <option value="$PROJECT_DIR$/szubienica.py" />
-        <option value="$PROJECT_DIR$/instrukcja.py" />
-        <option value="$PROJECT_DIR$/infomatyka_lekcje/2.62.py" />
-        <option value="$PROJECT_DIR$/pobierz_i_zwroc.py" />
-        <option value="$PROJECT_DIR$/zyczenia_urodzinowe.py" />
-        <option value="$PROJECT_DIR$/globalny_zasieg.py" />
-        <option value="$PROJECT_DIR$/kolko_i_krzyzyk.py" />
-        <option value="$PROJECT_DIR$/odczytaj_to.txt" />
-        <option value="$PROJECT_DIR$/odczytaj_to.py" />
-        <option value="$PROJECT_DIR$/zapisz_to.py" />
-        <option value="$PROJECT_DIR$/zamarynuj_to.py" />
-        <option value="$PROJECT_DIR$/obsloz_to.py" />
-        <option value="$PROJECT_DIR$/turniej_wiedzy.py" />
-        <option value="$PROJECT_DIR$/prosty_zwierzak.py" />
-        <option value="$PROJECT_DIR$/zwierzak_z_konstruktorem.py" />
-        <option value="$PROJECT_DIR$/zwierzak_z_atrybutem.py" />
-        <option value="$PROJECT_DIR$/zwierzak_z_klasa.py" />
-        <option value="$PROJECT_DIR$/pozwol,_ze_policze.py" />
         <option value="$PROJECT_DIR$/symulator_trzylatka.py" />
         <option value="$PROJECT_DIR$/bad_wisielec.py" />
         <option value="$PROJECT_DIR$/lista_uczniow.txt" />
@@ -98,6 +89,31 @@
         <option value="$PROJECT_DIR$/gra.py" />
         <option value="$PROJECT_DIR$/prosta_gra/gra.py" />
         <option value="$PROJECT_DIR$/prosta_gra/prosta_gra.py" />
+        <option value="$PROJECT_DIR$/Blackjack/karty.py" />
+        <option value="$PROJECT_DIR$/matura_informatyka/gaben_sie_nudzi.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/atoi.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/szyfr_cezara.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/szyfr_monoalfabetyczny.py" />
+        <option value="$PROJECT_DIR$/Blackjack/blackjack.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/odwrocona_notacja_polska.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/test.txt" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/zadanko_wyd_reszt.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/2007.PR.5.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/hasla_a.txt" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/2008.PR.5.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/PR_2011.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/2012_PR.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/liczby_odkryte.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/najdluzszy_podciag.py" />
+        <option value="$PROJECT_DIR$/infomatyka_lekcje/zadanie4.py" />
+        <option value="$PROJECT_DIR$/prosty_gui.py" />
+        <option value="$PROJECT_DIR$/metkownica.py" />
+        <option value="$PROJECT_DIR$/leniwe_przyciski.py" />
+        <option value="$PROJECT_DIR$/leniwe_przyciski_2.py" />
+        <option value="$PROJECT_DIR$/licznik_klikniec.py" />
+        <option value="$PROJECT_DIR$/długowiecznosc.py" />
+        <option value="$PROJECT_DIR$/wybor_filmow.py" />
+        <option value="$PROJECT_DIR$/wybor_filmow_2.py" />
       </list>
     </option>
   </component>
@@ -121,11 +137,6 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="prosta_gra" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -134,7 +145,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\Pulpit\python\Blackjack" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\Pulpit\python\infomatyka_lekcje\dane_2019" />
+      <recent name="B:\Pulpit\python\infomatyka_lekcje" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -148,29 +169,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.prosta_gra">
-    <configuration name="gra" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prosta_gra" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prosta_gra/gra.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gra_w_karty_2_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.wybor_filmow">
+    <configuration name="długowiecznosc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gra_w_karty_2_0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/długowiecznosc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gra_w_karty_3_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leniwe_przyciski" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,7 +203,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gra_w_karty_3_0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leniwe_przyciski.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prosta_gra" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leniwe_przyciski_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prosta_gra" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prosta_gra/prosta_gra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leniwe_przyciski_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanko_losowanie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="licznik_klikniec" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,11 +241,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/infomatyka_lekcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/infomatyka_lekcje/zadanko_losowanie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/licznik_klikniec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wybor_filmow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wybor_filmow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,19 +276,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.zadanko_losowanie" />
-      <item itemvalue="Python.gra_w_karty_2_0" />
-      <item itemvalue="Python.gra_w_karty_3_0" />
-      <item itemvalue="Python.gra" />
-      <item itemvalue="Python.prosta_gra" />
+      <item itemvalue="Python.leniwe_przyciski" />
+      <item itemvalue="Python.leniwe_przyciski_2" />
+      <item itemvalue="Python.licznik_klikniec" />
+      <item itemvalue="Python.długowiecznosc" />
+      <item itemvalue="Python.wybor_filmow" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prosta_gra" />
-        <item itemvalue="Python.gra" />
-        <item itemvalue="Python.gra_w_karty_3_0" />
-        <item itemvalue="Python.zadanko_losowanie" />
-        <item itemvalue="Python.gra_w_karty_2_0" />
+        <item itemvalue="Python.wybor_filmow" />
+        <item itemvalue="Python.długowiecznosc" />
+        <item itemvalue="Python.licznik_klikniec" />
+        <item itemvalue="Python.leniwe_przyciski_2" />
+        <item itemvalue="Python.leniwe_przyciski" />
       </list>
     </recent_temporary>
   </component>
@@ -288,13 +309,13 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2628205" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29273504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3206934" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39824945" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31947485" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -308,158 +329,109 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/najlepsze_wyniki_2_0.py">
+    <entry file="file://$PROJECT_DIR$/gra_w_karty_2_0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        <state relative-caret-position="-1004">
+          <caret line="16" lean-forward="true" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/translator_slangu_komputerowego.py">
+    <entry file="file://$PROJECT_DIR$/gra.py" />
+    <entry file="file://$PROJECT_DIR$/gra_w_karty.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
+        <state relative-caret-position="308">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="3" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/matura_informatyka/58dane_systemy2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bez_samoglosek.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/907059903/mmap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="268">
+          <caret line="83" column="8" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/instrukcja.py">
+    <entry file="file://$PROJECT_DIR$/matura_informatyka/gaben_sie_nudzi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        <state relative-caret-position="132">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pobierz_i_zwroc.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/907059903/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+        <state relative-caret-position="201">
+          <caret line="1128" column="8" selection-start-line="1128" selection-start-column="8" selection-end-line="1128" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zyczenia_urodzinowe.py">
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/atoi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+        <state relative-caret-position="22">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/globalny_zasieg.py">
+    <entry file="file://$PROJECT_DIR$/prosta_gra/prosta_gra.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="528">
+          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kolko_i_krzyzyk.py">
+    <entry file="file://$PROJECT_DIR$/prosta_gra/gra.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="203" column="55" lean-forward="true" selection-start-line="203" selection-start-column="55" selection-end-line="203" selection-end-column="55" />
+        <state relative-caret-position="506">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odczytaj_to.txt">
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/odwrocona_notacja_polska.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="655">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pickle1.dat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zamarynuj_to.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="59" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/obsloz_to.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="50" column="57" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/turniej_wiedzy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/907059903/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-109831">
-          <caret line="809" column="8" selection-start-line="809" selection-start-column="8" selection-end-line="809" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rzut_moneta.py">
+    <entry file="file://$PROJECT_DIR$/Blackjack/karty.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pozwol,_ze_policze.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wisielec.txt">
+    <entry file="file://$PROJECT_DIR$/Blackjack/gra.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/odczytaj_to.py">
+    <entry file="file://$PROJECT_DIR$/Blackjack/blackjack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/szubienica.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4576">
-          <caret line="208" selection-start-line="208" selection-end-line="208" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zapisz_to.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zapisz_to.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wylosowani.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bad_wisielec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="190" column="20" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="20" />
+        <state relative-caret-position="264">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/symulator_trzylatka.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="198">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/test.txt" />
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/waga.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matura_informatyka/59.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matura_informatyka/59.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -477,27 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/matura_informatyka/59.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matura_informatyka/59.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/2.62.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/matura_informatyka/58.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -505,135 +456,181 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/matura_informatyka/58dane_systemy1.txt">
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
+        <state relative-caret-position="-5006" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zwierzak_z_atrybutem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/zwierzak_z_konstruktorem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prywatny_zwierzak.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prosty_zwierzak.py">
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zwierzak_z_klasa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zwierzak_z_wlasciwoscia.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opiekun_zwierzaka.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="84" column="59" selection-start-line="84" selection-start-column="59" selection-end-line="84" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pogromca_obcych.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista_uczniow.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/losowanie_prezentow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/907059903/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3564">
-          <caret line="811" column="8" selection-start-line="811" selection-start-column="8" selection-end-line="811" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/wynik.txt">
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/slowa.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/hasla_a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/slowa_a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/2008.PR.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/2007.PR.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/zadanie6.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/PR_2011.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/wyjscie.txt" />
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/2012_PR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/liczby_odkryte.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/najdluzszy_podciag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/dane_2019/plansza.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/zadanie4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/zadanko_wyd_reszt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/zadanko_losowanie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
+        <state relative-caret-position="704">
           <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gra_w_karty_3_0.py">
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/szyfr_monoalfabetyczny.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="56" column="59" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
+        <state relative-caret-position="1628">
+          <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gra_w_karty_2_0.py">
+    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/szyfr_cezara.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1004">
-          <caret line="16" lean-forward="true" selection-end-line="16" />
+        <state relative-caret-position="220">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gra_w_karty.py">
+    <entry file="file://$PROJECT_DIR$/bad_wisielec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="44" selection-start-line="44" selection-end-line="44" selection-end-column="34" />
+        <state relative-caret-position="831">
+          <caret line="190" column="20" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gra.py">
+    <entry file="file://$PROJECT_DIR$/wisielec.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/prosta_gra/gra.py">
+    <entry file="file://$PROJECT_DIR$/prosty_gui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="220">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prosta_gra/prosta_gra.py">
+    <entry file="file://$PROJECT_DIR$/metkownica.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+        <state relative-caret-position="418">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leniwe_przyciski.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leniwe_przyciski_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/licznik_klikniec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/długowiecznosc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wybor_filmow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wybor_filmow_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
