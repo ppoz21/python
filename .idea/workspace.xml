@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d72bde6-2395-49c5-a000-39cab886ad60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/matury z informatyki/stara formuła/2006/5_2006_PR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matury z informatyki/stara formuła/2007/5_2007_PR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matury z informatyki/stara formuła/2008/5_2008_PR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matury z informatyki/stara formuła/2008/dane/slowa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PP/5_2009_PP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PR/5_2009_PR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PP/4_2010_PP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR/4_2010_PR.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,22 +15,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PR/5_2009_PR.py">
+        <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR/4_2010_PR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+            <state relative-caret-position="264">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PR/slowa.txt">
+        <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR/odp_4a.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PR/zad_5.txt">
+        <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR/odp_4b.txt">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PR/5_2009_PR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -52,9 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/matura_informatyka/58.1.py" />
-        <option value="$PROJECT_DIR$/matura_informatyka/58dane_systemy1.txt" />
-        <option value="$PROJECT_DIR$/matura_informatyka/58.2.py" />
         <option value="$PROJECT_DIR$/prywatny_zwierzak.py" />
         <option value="$PROJECT_DIR$/zwierzak_z_wlasciwoscia.py" />
         <option value="$PROJECT_DIR$/opiekun_zwierzaka.py" />
@@ -103,6 +105,9 @@
         <option value="$PROJECT_DIR$/matury z informatyki/stara formuła/2008/5_2008_PR.py" />
         <option value="$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PP/5_2009_PP.py" />
         <option value="$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PR/5_2009_PR.py" />
+        <option value="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PP/dane/dane.txt" />
+        <option value="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PP/4_2010_PP.py" />
+        <option value="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR/4_2010_PR.py" />
       </list>
     </option>
   </component>
@@ -166,6 +171,38 @@
               <item name="PR" type="462c0819:PsiDirectoryNode" />
               <item name="dane" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="matury z informatyki" type="462c0819:PsiDirectoryNode" />
+              <item name="stara formuła" type="462c0819:PsiDirectoryNode" />
+              <item name="2010" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="matury z informatyki" type="462c0819:PsiDirectoryNode" />
+              <item name="stara formuła" type="462c0819:PsiDirectoryNode" />
+              <item name="2010" type="462c0819:PsiDirectoryNode" />
+              <item name="PP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="matury z informatyki" type="462c0819:PsiDirectoryNode" />
+              <item name="stara formuła" type="462c0819:PsiDirectoryNode" />
+              <item name="2010" type="462c0819:PsiDirectoryNode" />
+              <item name="PP" type="462c0819:PsiDirectoryNode" />
+              <item name="dane" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="matury z informatyki" type="462c0819:PsiDirectoryNode" />
+              <item name="stara formuła" type="462c0819:PsiDirectoryNode" />
+              <item name="2010" type="462c0819:PsiDirectoryNode" />
+              <item name="PR" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -201,8 +238,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5_2009_PR">
-    <configuration name="2007_5_PR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4_2010_PR">
+    <configuration name="4_2010_PP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2007" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2007/2007_5_PR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PP/4_2010_PP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_2007_PR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4_2010_PR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,11 +268,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2007" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2007/5_2007_PR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR/4_2010_PR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,19 +345,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2007_5_PR" />
-      <item itemvalue="Python.5_2007_PR" />
       <item itemvalue="Python.5_2008_PR" />
       <item itemvalue="Python.5_2009_PP" />
       <item itemvalue="Python.5_2009_PR" />
+      <item itemvalue="Python.4_2010_PP" />
+      <item itemvalue="Python.4_2010_PR" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4_2010_PR" />
+        <item itemvalue="Python.4_2010_PP" />
         <item itemvalue="Python.5_2009_PR" />
         <item itemvalue="Python.5_2009_PP" />
         <item itemvalue="Python.5_2008_PR" />
-        <item itemvalue="Python.5_2007_PR" />
-        <item itemvalue="Python.2007_5_PR" />
       </list>
     </recent_temporary>
   </component>
@@ -341,12 +378,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14436248" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14436248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3163597" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3163597" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,44 +398,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/dane_2019/plansza.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/szyfr_monoalfabetyczny.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1628">
-          <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infomatyka_lekcje/szyfr_cezara.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bad_wisielec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="190" column="20" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wisielec.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prosty_gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/metkownica.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -655,10 +654,40 @@
     <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PR/slowa.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PP/zadanie4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PP/dane/dane.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="969" column="15" selection-start-line="969" selection-start-column="15" selection-end-line="969" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PP/4_2010_PP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PR/5_2009_PR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        <state relative-caret-position="-10">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR/odp_4b.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR/odp_4a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR/4_2010_PR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
     </entry>
