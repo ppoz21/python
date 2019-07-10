@@ -1,0 +1,3 @@
+Palindromy w danych: 46
+Slowa B w A: 35
+Par, w których mo¿liwe tylko sklejanie: 118
