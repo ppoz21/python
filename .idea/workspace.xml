@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d72bde6-2395-49c5-a000-39cab886ad60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/django/mysite/blog/feeds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django/mysite/blog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django/mysite/blog/sitemaps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django/mysite/blog/templates/blog/post/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django/mysite/blog/templates/blog/post/share.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -17,11 +11,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -35,8 +33,15 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2008/wynik" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/django/sklep_internetowy/myshop/myshop/manage.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -45,8 +50,11 @@
       <recent name="B:\Pulpit\python\Blackjack" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="B:\Pulpit\python\infomatyka_lekcje\dane_2019" />
-      <recent name="B:\Pulpit\python\infomatyka_lekcje" />
+      <recent name="B:\Pulpit\python\django\sklep_internetowy\myshop\myshop" />
+      <recent name="B:\Pulpit\python\django\sklep_internetowy\myshop\myshop\shop\templates\shop" />
+      <recent name="B:\Pulpit\python\django\social\bookmarks\images\templates" />
+      <recent name="B:\Pulpit\python\django\social\bookmarks\account\templates" />
+      <recent name="B:\Pulpit\python\django\social\bookmarks\account\templates\account" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,6 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PP/4_2010_PP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -95,6 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2010/PR/4_2010_PR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -116,6 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matury z informatyki/stara formuła/2009/PR/5_2009_PR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -137,6 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/mysite/blog/templatetags/blog_tags.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -158,6 +170,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_env/mysite/blog/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -194,8 +207,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537166135604</updated>
+      <workItem from="1565099754873" duration="136000" />
+      <workItem from="1565100122040" duration="104000" />
+      <workItem from="1565159184108" duration="21062000" />
+      <workItem from="1565252300087" duration="59000" />
+      <workItem from="1565252486189" duration="26782000" />
+      <workItem from="1567186999055" duration="84000" />
+      <workItem from="1567421707750" duration="33000" />
+      <workItem from="1567421806461" duration="27000" />
+      <workItem from="1567421847906" duration="11007000" />
+      <workItem from="1568876906649" duration="51000" />
+      <workItem from="1568877005982" duration="24248000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
